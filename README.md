@@ -2,8 +2,8 @@
 
 ### Jersey #4
 
-###Point guard/shooting guard
+### Point guard/shooting guard
 
-###Career high this season: 16 points
+### Career high this season: 16 points
 
-###Race: Indian
+### Race: Indian
