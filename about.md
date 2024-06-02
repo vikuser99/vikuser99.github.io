@@ -14,4 +14,5 @@ Welcome to my blog! Here's a bit about me...
 
 Feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
 
+"id-token: write".
 
