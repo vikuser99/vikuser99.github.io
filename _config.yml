@@ -1,5 +1,17 @@
 title: Avik Dwivedi
-logo: yosmet.jpeg
-description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+email: avikdpanda@gmail.com
+description: >-
+  A simple site built with Jekyll and GitHub Pages.
+baseurl: "/my-jekyll-site" # your repo name, important if not at root
+url: "https://vikuser99.github.io" # your GitHub Pages URL
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+  header_pages:
+  - index.md
+  - basketball.md
+  - hindustani-music.md
+  - martial-arts.md
