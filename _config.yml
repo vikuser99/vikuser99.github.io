@@ -8,7 +8,7 @@ url: "https://vikuser99.github.io" # your GitHub Pages URL
 theme: minima
 
 plugins:
-  - jekyll-feed
+jekyll-feed
 
   header_pages:
   - index.md
