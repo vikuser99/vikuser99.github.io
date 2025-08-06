@@ -11,7 +11,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.md
+  - index.md
   - basketball.md
   - hindustani-music.md
   - martial-arts.md
